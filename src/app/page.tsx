@@ -31,7 +31,7 @@ export default function Home() {
             <div className="relative">
               <div className="aspect-[4/5] rounded-3xl overflow-hidden bg-gray-100 relative shadow-2xl">
                 <Image 
-                  src="/davud zulumkhanov.JPG" 
+                  src="/davud_zulumkhanov.jpg"
                   alt="Давуд Зулумханов" 
                   fill 
                   className="object-cover object-top"
